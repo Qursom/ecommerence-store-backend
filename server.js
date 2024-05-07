@@ -4,7 +4,7 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 const corsOptions = {
-  origin: "http://localhost:4200",
+  origin: process.env.Origin_URL ,
   optionsSuccessStatus: 204,
   methods: "GET, POST, PUT, DELETE",
 };
