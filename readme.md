@@ -14,11 +14,16 @@ Welcome to our Eccomerence-Store-backend  project! This repository houses the ba
 ## Getting Started
 To get started with our project, follow these simple steps:
 
-Clone the Repository: git clone [https://github.com/Qursom/ecommerence-store-backend.git]
+**Clone the Repository:** git clone [ https://github.com/Qursom/ecommerence-store-backend.git ]
+
 **Install Dependencies:** npm install
+
 **Set Up MongoDB**: Make sure you have MongoDB installed and running locally or provide connection details in config.js.
-Start the Server: npm start
+
+**Start the Server:** npm start
+
 **Explore the API:** Visit http://localhost:3000/api/products to interact with our RESTful API.
+
 ## Contributing
 We welcome contributions from the community! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to submit a pull request.
 
