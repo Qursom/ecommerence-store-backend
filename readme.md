@@ -1,5 +1,5 @@
-## Angular Frontend Backend Integration with Express and MongoDB
-Welcome to our Angular frontend backend integration project! This repository houses the backend functionality for our Angular frontend application, enabling users to perform CRUD (Create, Read, Update, Delete) operations on products. Our server is built on Express, interacts with dynamic data stored in MongoDB, and follows the REST API architecture along with the MVC design pattern.
+## Eccomerence Store Application  with Backend in NodeJS and MongoDB
+Welcome to our Eccomerence-Store-backend  project! This repository houses the backend functionality for our Eccomerence-store-application, enabling users to perform CRUD (Create, Read, Update, Delete) operations on products. Our server is built on Express, interacts with dynamic data stored in MongoDB, and follows the REST API architecture along with the MVC design pattern.
 
 ## Features
 **CRUD Operations:** Users can seamlessly Create, Read, Update, and Delete products through our RESTful API endpoints.
@@ -14,7 +14,7 @@ Welcome to our Angular frontend backend integration project! This repository hou
 ## Getting Started
 To get started with our project, follow these simple steps:
 
-Clone the Repository: git clone https://github.com/yourusername/yourrepository.git
+Clone the Repository: git clone [https://github.com/Qursom/ecommerence-store-backend.git]
 **Install Dependencies:** npm install
 **Set Up MongoDB**: Make sure you have MongoDB installed and running locally or provide connection details in config.js.
 Start the Server: npm start
@@ -25,8 +25,8 @@ We welcome contributions from the community! Whether it's bug fixes, feature enh
 ## License
 This project is licensed under the MIT License, allowing for both personal and commercial use.
 
-Support
+## Support
 If you encounter any issues or have questions regarding the project, please don't hesitate to open an issue. Our team will be happy to assist you!
 
-Acknowledgements
+## Acknowledgements
 We extend our gratitude to the open-source community for their invaluable contributions and inspiration.
