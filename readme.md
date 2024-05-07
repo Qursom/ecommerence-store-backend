@@ -3,9 +3,13 @@ Welcome to our Angular frontend backend integration project! This repository hou
 
 ## Features
 **CRUD Operations:** Users can seamlessly Create, Read, Update, and Delete products through our RESTful API endpoints.
+
 **Express Framework:** Leveraging the power of Express, our backend provides robust routing and middleware support for handling requests.
+
 **MongoDB Integration:** Dynamic product data is stored and managed efficiently in MongoDB, offering scalability and flexibility.
+
 **MVC Design Pattern:** We've structured our codebase following the Model-View-Controller design pattern, ensuring clear separation of concerns and maintainability.
+
 **Scalable Architecture:** Designed with scalability in mind, our backend architecture can easily accommodate growing data and user demands.
 ## Getting Started
 To get started with our project, follow these simple steps:
